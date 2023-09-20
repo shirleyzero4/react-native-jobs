@@ -35,8 +35,7 @@ export default function Home() {
                 <View
                     style={{
                         flex: 1,
-                        padding: SIZES.medium,
-                        backgroundColor: COLORS.gray
+                        padding: SIZES.medium
                     }}
                 >
                     <Welcome />
