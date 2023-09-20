@@ -35,12 +35,11 @@ export default function Home() {
                 <View
                     style={{
                         flex: 1,
-                        padding: SIZES.medium
+                        padding: SIZES.medium,
+                        backgroundColor: COLORS.gray
                     }}
                 >
-                    <Welcome 
-
-                    />
+                    <Welcome />
 
                     <Popularjobs />
                     <Nearbyjobs />
